@@ -30,12 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofcyln&" alt="ofcyln" /></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ofcyln"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ofcyln" /></a></p>
 
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ofcyln&label=Profile%20views&color=0e75b6&style=flat" alt="ofcyln" /> </p>
-
-<br>
-<br>
