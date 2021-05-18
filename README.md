@@ -1,4 +1,4 @@
-<h3 align="left">I'm a self-motivated Front-End Developer who is enthusiastic about web/mobile application development and regularly uses various development techniques. I have 9+ years of professional experience in Web Front-End Development, Web UI/UX Development</h3>
+<h3 align="left">I'm a self-motivated Frontend Developer who is enthusiastic about web/mobile application development and regularly uses various development techniques. I have 9+ years of professional experience in Web Frontend Development, Web UI/UX Development</h3>
 
 - 🔭 I’m currently working on [Mortgage Expense Calculator](https://github.com/ofcyln/mortgage-expense-calculator) open-source project
 
