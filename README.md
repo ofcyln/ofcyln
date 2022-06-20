@@ -1,4 +1,4 @@
-<h3 align="left">I'm a self-motivated Frontend Developer who is enthusiastic about web/mobile application development and regularly uses various development techniques. I have 9+ years of professional experience in Web Frontend Development, Web UI/UX Development</h3>
+<h3 align="left">I'm a self-motivated Front-end Developer who is enthusiastic about web/mobile application development and regularly uses various development techniques. I have 9+ years of professional experience in Web Front-end Development, Web UI/UX Development</h3>
 
 - Ask me about **Angular, React, JavaScript, TypeScript, PWA, CSS and HTML** questions
 
