@@ -1,4 +1,10 @@
-<h3 align="left">I'm a self-motivated Front-end Developer who is enthusiastic about web/mobile application development and regularly uses various development techniques. I have 9+ years of professional experience in Web Front-end Development, Web UI/UX Development</h3>
+<h3 align="left">I am a self-motivated Front-End Developer with 10+ years of professional experience in Web Front-End Development and Web UI/UX Development. 
+
+My enthusiasm for web/mobile application development and regular use of various development techniques drive my passion for crafting exceptional user experiences.
+ 
+I stay updated with the latest industry trends and best practices to ensure I deliver innovative and visually appealing digital solutions. 
+
+With a dedication to clean and efficient code, I collaborate effectively with diverse teams, contributing to the development of robust and impactful applications.</h3>
 
 - Ask me about **Angular, React, JavaScript, TypeScript, PWA, CSS and HTML** questions
 
