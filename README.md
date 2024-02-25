@@ -14,5 +14,3 @@
 <a href="https://codepen.io/ofcyln" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ofcyln" height="30" width="40" /></a>
 <a href="https://medium.com/@ofcyln" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ofcyln" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofcyln&show_icons=true&locale=en&bg_color=0d1117&text_color=fff" alt="ofcyln" /></p>
