@@ -10,7 +10,7 @@
 - [Save the Text](https://github.com/ofcyln/save-the-text): Keep your copied text, and clear formatting of the copied text
 
 ### :octocat: Websites
-- [My Rresume](https://osmanfikretceylan.com)
+- [My Resume](https://osmanfikretceylan.com)
 - [My LinkedIn profile](https://www.linkedin.com/in/ofcyln/)
 
 ### 🔧 Skills
