@@ -1,7 +1,7 @@
 <h1> Hi there, I'm Osman 👋 </h1>
 
 ### :milky_way: About Me
-- I am a highly motivated and experienced Front-End Developer with over ten years of expertise in web and mobile application development. My passion lies in creating websites and mobile apps that grab people's attention and engage users. I have a strong desire for continuous learning, allowing me to quickly adapt to new technologies and deliver exceptional user experiences. In the fast-paced world of digital technology, I stay updated with the latest trends and changes, ensuring that my work remains current and relevant. I am dedicated to writing clear and efficient code, which not only enhances my own productivity but also enables seamless collaboration within diverse teams.
+I am a highly motivated and experienced Front-End Developer with over ten years of expertise in web and mobile application development. My passion lies in creating websites and mobile apps that grab people's attention and engage users. I have a strong desire for continuous learning, allowing me to quickly adapt to new technologies and deliver exceptional user experiences. In the fast-paced world of digital technology, I stay updated with the latest trends and changes, ensuring that my work remains current and relevant. I am dedicated to writing clear and efficient code, which not only enhances my own productivity but also enables seamless collaboration within diverse teams.
 
 ### 🌟 Notable Projects
 - [Save the Text](https://github.com/ofcyln/save-the-text): Keep your copied text, and clear formatting of the copied text
