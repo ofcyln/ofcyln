@@ -4,14 +4,14 @@
 I am a highly motivated and experienced Front-End Developer with over ten years of expertise in web and mobile application development. My passion lies in creating websites and mobile apps that grab people's attention and engage users. I have a strong desire for continuous learning, allowing me to quickly adapt to new technologies and deliver exceptional user experiences. In the fast-paced world of digital technology, I stay updated with the latest trends and changes, ensuring that my work remains current and relevant. I am dedicated to writing clear and efficient code, which not only enhances my own productivity but also enables seamless collaboration within diverse teams.
 
 ### 🌟 Notable Projects
-- [Save the Text](https://github.com/ofcyln/save-the-text): Keep your copied text, and clear formatting of the copied text
+- [i18n JSON to/from XLSX converter CLI tool](https://github.com/ofcyln/i18n-json-to-xlsx-converter): Generate i18n JSON files easily
 - [Mortgage Expense Calculator](https://github.com/ofcyln/mortgage-expense-calculator): Calculate mortgage expense in the Netherlands
 - [Currency Exchange](https://github.com/ofcyln/currency-exchange): Convert currencies easily
-- [i18n JSON to/from XLSX converter CLI tool](https://github.com/ofcyln/i18n-json-to-xlsx-converter): Generate i18n JSON files easily
+- [Save the Text](https://github.com/ofcyln/save-the-text): Keep your copied text, and clear formatting of the copied text
 
 ### :octocat: Websites
 - [My Resume](https://osmanfikretceylan.com)
 - [My LinkedIn profile](https://www.linkedin.com/in/ofcyln/)
 
 ### 🔧 Skills
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,nextjs,jest,cypress,tailwind,git,github,vite,webpack,postman,prisma,vercel,vim,vscode,wordpress)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,lit,jquery,nodejs,express,nextjs,jest,selenium,d3,cypress,materialui,tailwind,bootstrap,figma,emotion,less,sass,npm,pnpm,yarn,git,github,gitlab,bitbucket,bash,aws,azure,firebase,vercel,gatsby,babel,gulp,vite,webpack,postman,graphql,prisma,vercel,vim,vscode,idea,webstorm,sublime,wordpress,ps,arduino,raspberrypi,regex)
