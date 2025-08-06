@@ -1,7 +1,11 @@
 <h1> Hi there, I'm Fikret 👋 </h1>
 
 ### :milky_way: About Me
-I am a highly motivated and experienced Front-End Developer with over ten years of expertise in web and mobile application development. My passion lies in creating websites and mobile apps that grab people's attention and engage users. I have a strong desire for continuous learning, allowing me to quickly adapt to new technologies and deliver exceptional user experiences. In the fast-paced world of digital technology, I stay updated with the latest trends and changes, ensuring that my work remains current and relevant. I am dedicated to writing clear and efficient code, which not only enhances my own productivity but also enables seamless collaboration within diverse teams.
+I'm a front-end developer with almost 14 years of experience, currently working as a Lead Front-End Developer at Nationale Nederlanden. I focus on building scalable, accessible, and user-friendly web applications while supporting the people who build them. I enjoy creating reliable solutions with tools like React, Angular, TypeScript, HTML5, and CSS3. 
+
+Over the years, I ve taken on responsibilities beyond hands on coding, mentoring developers, guiding technical decisions, and helping teams stay focused through change. I care about performance, accessibility, and long term maintainability. 
+
+As a team lead, I aim to encourage a collaborative environment where people can grow while staying aligned and delivering real value.
 
 ### 🌟 Notable Projects
 - [i18n JSON to/from XLSX converter CLI tool](https://github.com/ofcyln/i18n-json-to-xlsx-converter): Generate i18n JSON files easily
