@@ -1,7 +1,7 @@
 <h1> Hi there, my name is Osman Fikret, but you can call me Fiko </h1>
 
 ### :milky_way: About Me
-I'm a front-end developer with almost 14 years of experience, currently working as a Lead Front-End Developer at Nationale Nederlanden. I focus on building scalable, accessible, and user-friendly web applications while supporting the people who build them. I enjoy creating reliable solutions with tools like React, Angular, TypeScript, HTML5, and CSS3. 
+I'm a front-end developer since 2012, and currently working as a Lead Front-End Developer at Nationale Nederlanden. I focus on building scalable, accessible, and user-friendly web applications while supporting the people who build them. I enjoy creating reliable solutions with tools like React, Angular, TypeScript, HTML5, and CSS3. 
 
 Over the years, I ve taken on responsibilities beyond hands on coding, mentoring developers, guiding technical decisions, and helping teams stay focused through change. I care about performance, accessibility, and long term maintainability. 
 
