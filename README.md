@@ -1,4 +1,4 @@
-<h1> Hi there, my name is Osman Fikret, but you can call me Fiko </h1>
+<h1> Hi there, my name is Fiko </h1>
 
 ### :milky_way: About Me
 I'm a front-end developer since 2012, and currently working as a Lead Front-End Developer at Nationale Nederlanden. I focus on building scalable, accessible, and user-friendly web applications while supporting the people who build them. I enjoy creating reliable solutions with tools like React, Angular, TypeScript, HTML5, and CSS3. 
