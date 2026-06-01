@@ -1,11 +1,13 @@
 <h1> Hi there, my name is Fiko </h1>
 
 ### :milky_way: About Me
-Technical Manager and Lead Front-End Developer active since 2012, currently working as a Lead Front-End Developer at Nationale Nederlanden. I focus on building scalable, accessible, and user-friendly web applications while supporting the people who build them. I enjoy creating reliable solutions with tools like React, Angular, TypeScript, HTML5, and CSS3. 
+Technical Manager and Lead Front-End Developer active since 2012, currently working as a Lead Front-End Developer at Nationale Nederlanden. 
 
-Over the years, I ve taken on responsibilities beyond hands on coding, mentoring developers, guiding technical decisions, and helping teams stay focused through change. I care about performance, accessibility, and long term maintainability. 
+I focus on "Code, People, Flow"—balancing technical excellence with team health while leading engineering teams from technical execution to business value. 
 
-As a team lead, I aim to encourage a collaborative environment where people can grow while staying aligned and delivering real value.
+Expert in modernizing development cycles with multi-step, agentic AI implementations (Plan, Execute, Verify) to boost team productivity. 
+
+Experienced in bridging the gap between business goals and technical delivery, mentoring developers, and maintaining high code quality standards.
 
 ### 🌟 Notable Projects
 - [i18n JSON to/from XLSX converter CLI tool](https://github.com/ofcyln/i18n-json-to-xlsx-converter): Generate i18n JSON files easily
