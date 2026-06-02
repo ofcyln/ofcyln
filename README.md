@@ -1,9 +1,9 @@
 <h1> Hi there, my name is Fiko </h1>
 
 ### :milky_way: About Me
-Technical Leader and Lead Front-End Developer active since 2012, currently working as a Lead Front-End Developer at Nationale Nederlanden. 
+Technical Leader and Lead Front-End Developer, active since 2012, currently working as a Lead Front-End Developer at Nationale Nederlanden. 
 
-I focus on "Code, People, Flow"—balancing technical excellence with team health while leading engineering teams from technical execution to business value. 
+I focus on "Code, People, Flow", balancing technical excellence with team health while leading engineering teams from technical execution to business value. 
 
 Expert in modernizing development cycles with multi-step, agentic AI implementations (Plan, Execute, Verify) to boost team productivity. 
 
