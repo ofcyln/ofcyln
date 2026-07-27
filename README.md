@@ -16,7 +16,7 @@ Experienced in bridging the gap between business goals and technical delivery, m
 - [Save the Text](https://github.com/ofcyln/save-the-text): Keep your copied text, and clear formatting of the copied text
 
 ### :octocat: Websites
-- [My Resume](https://osmanfikretceylan.com)
+- [My Resume](https://fikoceylan.com/resume)
 - [My LinkedIn profile](https://www.linkedin.com/in/ofcyln/)
 
 ### 🔧 Skills
