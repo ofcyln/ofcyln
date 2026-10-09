@@ -18,6 +18,7 @@ Experienced in bridging the gap between business goals and technical delivery, m
 ### :octocat: Websites
 - [My Resume](https://fikoceylan.com/resume)
 - [My LinkedIn profile](https://www.linkedin.com/in/ofcyln/)
+- [My Blog posts](https://fikoceylan.com/blog/)
 
 ### 🔧 Skills
 ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,lit,jquery,nodejs,express,nextjs,jest,selenium,d3,cypress,materialui,tailwind,bootstrap,figma,emotion,less,sass,npm,pnpm,yarn,git,github,gitlab,bitbucket,bash,aws,azure,firebase,vercel,gatsby,babel,gulp,vite,webpack,postman,graphql,prisma,vercel,vim,vscode,idea,webstorm,sublime,wordpress,ps,arduino,raspberrypi,regex)
